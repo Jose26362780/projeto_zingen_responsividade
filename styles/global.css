@@ -11,6 +11,7 @@
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  list-style: none;
 }
 
 :root {
@@ -46,10 +47,16 @@ html {
   font-size: var(--fs-base);
   line-height: 1.6;
   color: var(--text-color-primary);
+
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+
+  
 }
 
 body {
   background-color: var(--bg-color);
+  
 }
 
 h1,
@@ -76,6 +83,7 @@ h3 {
 a {
   text-decoration: none;
   color: inherit;
+  
 }
 
 a:hover {
@@ -92,6 +100,7 @@ a:hover {
 
 ul [role="list"] {
   list-style: none;
+ 
 }
 
 img {
