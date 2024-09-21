@@ -4,10 +4,11 @@ Programa Full Stack Rocketseat
 
 
 
-# Projeto Convert 
+# Projeto Zingen  - Karaokê - Responsividade
 
-O projeto desenvolvido durante os modulos de JavaScript Basico dentro da trilha full stack do programa da Rocketseat. Foi adicionada asfuncionalidades como a conversão de moedas, seleção de moedas e validação do campo de entrada. Recomendo adicionar essa aplicação ao seu portfólio. Adicionada as funcionalidades em JavaScript
+O projeto foi desenvolvido durante os modulos de Responsividade dentro da trilha full stack do programa da Rocketseat. Foram utilizadas Classes Utilitarias em css, estrategias de mobile first, html semantico, reutilização de variaveis em Css, uso de grid, uso de linear-gradient que gera o fundo degrade das cores
 
+ 
 
 ![preview](.github/cover.png)
 
@@ -15,14 +16,14 @@ O projeto desenvolvido durante os modulos de JavaScript Basico dentro da trilha 
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ## Link da aplicação
 
-👉🏼[Clique aqui para accessar](https://convert-template.netlify.app/)
+👉🏼[Clique aqui para accessar](https://zinger-responsividade.netlify.app/)
 
 ## Layout
-👉🏼[Figma da aplicação](https://www.figma.com/design/ShEHo1rpc6AEr1J6rcrYoY/Conversor-de-Moedas-(Community))
+👉🏼[Figma da aplicação](https://www.figma.com/design/B5HYFlmennWAp14cPsqoXB/LP-de-produto-(Community)?node-id=0-1&node-type=canvas&t=NoidN4MHqYOErnyd-0)
 
 
 ## 🔗 Deploy 
@@ -33,7 +34,7 @@ O projeto desenvolvido durante os modulos de JavaScript Basico dentro da trilha 
 
 ## 💻 Sobre mim 😄
  Estudante de Engenharia de Software na UNOPAR e 
- Desenvolvedor Front End estudando na Rocketseat dentro do Programa Explorer 
+ Desenvolvedor Front End estudando na Rocketseat dentro do Programa Full Stack 
 
 ## 🔗 Contato 
 
